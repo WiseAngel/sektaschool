@@ -1,0 +1,3 @@
+USERS = None
+URLS = None
+DOWNLOAD_FOLDER = None
